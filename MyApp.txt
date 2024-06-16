@@ -1,0 +1,8 @@
+rfce
+
+npx create_react_app MyApp
+cd MyApp
+npm start
+
+npm i express
+npm i react-router-dom
